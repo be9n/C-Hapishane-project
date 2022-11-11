@@ -1,0 +1,50 @@
+C:\Users\bedco\source\repos\192503525\192503525\bin\Debug\192503525.exe.config
+C:\Users\bedco\source\repos\192503525\192503525\bin\Debug\192503525.exe
+C:\Users\bedco\source\repos\192503525\192503525\bin\Debug\192503525.pdb
+C:\Users\bedco\source\repos\192503525\192503525\bin\Debug\Guna.UI2.dll
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\192503525.csproj.AssemblyReference.cache
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\192503525.csproj.SuggestedBindingRedirects.cache
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.Form1.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.Properties.Resources.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\192503525.csproj.GenerateResource.cache
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\192503525.csproj.CoreCompileInputs.cache
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\192503525.csproj.CopyComplete
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\192503525.exe
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\192503525.pdb
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.SignUp.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.SifreDegistir.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.kullaniciPaneli.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.adminLogin.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.adminPanel.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.dataListesi.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.HukumluEkle.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.hukumluGuncelle.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.talebler.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.talebOlustur.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.HukumluSorgula.resources
+C:\Users\bedco\source\repos\192503525\192503525\obj\Debug\_192503525.kullaniciTalebleri.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\bin\Debug\192503525.exe.config
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\bin\Debug\192503525.exe
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\bin\Debug\192503525.pdb
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\bin\Debug\Guna.UI2.dll
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\192503525.csproj.AssemblyReference.cache
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\192503525.csproj.SuggestedBindingRedirects.cache
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.adminLogin.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.adminPanel.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.dataListesi.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.Form1.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.HukumluEkle.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.hukumluGuncelle.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.HukumluSorgula.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.kullaniciPaneli.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.kullaniciTalebleri.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.Properties.Resources.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.SifreDegistir.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.SignUp.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.talebler.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\_192503525.talebOlustur.resources
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\192503525.csproj.GenerateResource.cache
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\192503525.csproj.CoreCompileInputs.cache
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\192503525.csproj.CopyComplete
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\192503525.exe
+C:\Users\bedco\OneDrive\Desktop\192503525 Abdul rahman abo nabbout\Proje\192503525\obj\Debug\192503525.pdb
